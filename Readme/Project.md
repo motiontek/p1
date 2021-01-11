@@ -1,7 +1,7 @@
 ![IOT Drawing](https://i.imgur.com/fu3gliJ.![IOT Drawing](https://i.imgur.com/tRpIpWi.![IOT Drawing](https://i.imgur.com/5y1xC3Q.![IOT Drawing](https://i.imgur.com/Z0LKS3Y.![Solution](https://i.imgur.com/TyRKGyY.png)png)png)png)png)
 [Toc]
 # 开发目的
-<font face="黑体"> 近年来，物联网（**_IoT_:Internet Of Things**）产业蓬勃发展，产品快速迭代、百花齐放，市场持续拓展、规模升级。我们看到阿里、小米等巨头全面发力，越来越多的企业将IoT作为新方向，越来越多的投资机构开始布局，IoT逐步由技术革新走向行业场景落地。政策助推、场景涌现、资本蜂拥、巨头入场，产业赛道日益清晰，产新君带你近距离感受IoT的巨大魅力。</font>
+<font face="黑体"> 近年来，物联网（**_IoT_:Internet Of Things**）产业蓬勃发展，产品快速迭代、百花齐放，市场持续拓展、规模升级。我们看到阿里、小米等巨头全面发力，越来越多的企业将IoT作为新方向，越来越多的投资机构开始布局，IoT逐步由技术革新走向行业场景落地。政策助推、场景涌现、资本蜂拥、巨头入场，产业赛道日益清晰，我们越来越多的感受IoT的巨大魅力。</font>
 
 <font face="STCAIYUN">物联网是实现“万物互联、万物智联”的基石。根据国际电信联盟（ITU）的定义，物联网是指通过二维码识读装置、射频识别装置、红外感应装置、全球定位系统和激光扫描器等传感设备，按照约定的协议，将物品与互联网相连，进行信息交换传输, 实现智能化识别、定位、交互、监控和管理的网络。</font>
 
