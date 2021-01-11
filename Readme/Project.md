@@ -12,11 +12,8 @@ GitHub:https://github.com/motiontek/Project.git
 
 ## 物联网架构
 * 架构图
-<<<<<<< HEAD
 ![IOT Architecture](../Image/IOT%20Drawing.png)
 
-=======
->>>>>>> bc1847fa1a6c022b171bcb6178652095f3e80ae5
 ## 物联网协议
 
 # 总体方案
